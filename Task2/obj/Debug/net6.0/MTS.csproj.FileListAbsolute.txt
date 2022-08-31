@@ -1,0 +1,15 @@
+/Users/stanislavvoronov/RiderProjects/MTS/MTS/bin/Debug/net6.0/MTS
+/Users/stanislavvoronov/RiderProjects/MTS/MTS/bin/Debug/net6.0/MTS.deps.json
+/Users/stanislavvoronov/RiderProjects/MTS/MTS/bin/Debug/net6.0/MTS.runtimeconfig.json
+/Users/stanislavvoronov/RiderProjects/MTS/MTS/bin/Debug/net6.0/MTS.dll
+/Users/stanislavvoronov/RiderProjects/MTS/MTS/bin/Debug/net6.0/ref/MTS.dll
+/Users/stanislavvoronov/RiderProjects/MTS/MTS/bin/Debug/net6.0/MTS.pdb
+/Users/stanislavvoronov/RiderProjects/MTS/MTS/obj/Debug/net6.0/MTS.csproj.AssemblyReference.cache
+/Users/stanislavvoronov/RiderProjects/MTS/MTS/obj/Debug/net6.0/MTS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavvoronov/RiderProjects/MTS/MTS/obj/Debug/net6.0/MTS.AssemblyInfoInputs.cache
+/Users/stanislavvoronov/RiderProjects/MTS/MTS/obj/Debug/net6.0/MTS.AssemblyInfo.cs
+/Users/stanislavvoronov/RiderProjects/MTS/MTS/obj/Debug/net6.0/MTS.csproj.CoreCompileInputs.cache
+/Users/stanislavvoronov/RiderProjects/MTS/MTS/obj/Debug/net6.0/MTS.dll
+/Users/stanislavvoronov/RiderProjects/MTS/MTS/obj/Debug/net6.0/ref/MTS.dll
+/Users/stanislavvoronov/RiderProjects/MTS/MTS/obj/Debug/net6.0/MTS.pdb
+/Users/stanislavvoronov/RiderProjects/MTS/MTS/obj/Debug/net6.0/MTS.genruntimeconfig.cache

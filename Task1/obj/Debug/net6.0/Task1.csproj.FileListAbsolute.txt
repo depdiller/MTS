@@ -1,0 +1,15 @@
+/Users/stanislavvoronov/RiderProjects/MTS/Task1/bin/Debug/net6.0/Task1
+/Users/stanislavvoronov/RiderProjects/MTS/Task1/bin/Debug/net6.0/Task1.deps.json
+/Users/stanislavvoronov/RiderProjects/MTS/Task1/bin/Debug/net6.0/Task1.runtimeconfig.json
+/Users/stanislavvoronov/RiderProjects/MTS/Task1/bin/Debug/net6.0/Task1.dll
+/Users/stanislavvoronov/RiderProjects/MTS/Task1/bin/Debug/net6.0/ref/Task1.dll
+/Users/stanislavvoronov/RiderProjects/MTS/Task1/bin/Debug/net6.0/Task1.pdb
+/Users/stanislavvoronov/RiderProjects/MTS/Task1/obj/Debug/net6.0/Task1.csproj.AssemblyReference.cache
+/Users/stanislavvoronov/RiderProjects/MTS/Task1/obj/Debug/net6.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavvoronov/RiderProjects/MTS/Task1/obj/Debug/net6.0/Task1.AssemblyInfoInputs.cache
+/Users/stanislavvoronov/RiderProjects/MTS/Task1/obj/Debug/net6.0/Task1.AssemblyInfo.cs
+/Users/stanislavvoronov/RiderProjects/MTS/Task1/obj/Debug/net6.0/Task1.csproj.CoreCompileInputs.cache
+/Users/stanislavvoronov/RiderProjects/MTS/Task1/obj/Debug/net6.0/Task1.dll
+/Users/stanislavvoronov/RiderProjects/MTS/Task1/obj/Debug/net6.0/ref/Task1.dll
+/Users/stanislavvoronov/RiderProjects/MTS/Task1/obj/Debug/net6.0/Task1.pdb
+/Users/stanislavvoronov/RiderProjects/MTS/Task1/obj/Debug/net6.0/Task1.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/stanislavvoronov/RiderProjects/MTS/Task3/obj/Debug/net6.0/Task3.csproj.AssemblyReference.cache
+/Users/stanislavvoronov/RiderProjects/MTS/Task3/obj/Debug/net6.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavvoronov/RiderProjects/MTS/Task3/obj/Debug/net6.0/Task3.AssemblyInfoInputs.cache
+/Users/stanislavvoronov/RiderProjects/MTS/Task3/obj/Debug/net6.0/Task3.AssemblyInfo.cs
+/Users/stanislavvoronov/RiderProjects/MTS/Task3/obj/Debug/net6.0/Task3.csproj.CoreCompileInputs.cache
+/Users/stanislavvoronov/RiderProjects/MTS/Task3/bin/Debug/net6.0/Task3
+/Users/stanislavvoronov/RiderProjects/MTS/Task3/bin/Debug/net6.0/Task3.deps.json
+/Users/stanislavvoronov/RiderProjects/MTS/Task3/bin/Debug/net6.0/Task3.runtimeconfig.json
+/Users/stanislavvoronov/RiderProjects/MTS/Task3/bin/Debug/net6.0/Task3.dll
+/Users/stanislavvoronov/RiderProjects/MTS/Task3/bin/Debug/net6.0/ref/Task3.dll
+/Users/stanislavvoronov/RiderProjects/MTS/Task3/bin/Debug/net6.0/Task3.pdb
+/Users/stanislavvoronov/RiderProjects/MTS/Task3/obj/Debug/net6.0/Task3.dll
+/Users/stanislavvoronov/RiderProjects/MTS/Task3/obj/Debug/net6.0/ref/Task3.dll
+/Users/stanislavvoronov/RiderProjects/MTS/Task3/obj/Debug/net6.0/Task3.pdb
+/Users/stanislavvoronov/RiderProjects/MTS/Task3/obj/Debug/net6.0/Task3.genruntimeconfig.cache
